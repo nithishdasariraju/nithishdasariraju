@@ -1,32 +1,31 @@
-## 👋 Hello, DevOps Explorers!
+Hi, I'm Nithish Dasariraju ! Welcome to my GitHub Portfolio
 
-I'm Nithish Dasariraju, a passionate tech enthusiast on a journey to master the art of DevOps. Currently in the midst of my DevOps learning adventure,
-I'm diving deep into the world of continuous integration, continuous delivery, and infrastructure as code.
+About Me:
+A Software Engineer with a strong foundation in computer science principles and a love for building innovative solutions that have a global impact. Currently pursuing a Master's in Information Technology with a specialization in Data Science at Gannon University, I thrive on designing scalable systems and solving complex challenges.
 
-### 🚀 What I'm Up To:
+🌍 Based in Erie, Pennsylvania, USA.
+💻 Skilled in Python, C, Java, and C++.
+🌟 Excited about cloud innovations, distributed systems, and automation.
+📫 Reach me at dasarirajunithish22@gmail.com.
 
-- **DevOps Trainee**: Embracing the DevOps philosophy, I'm actively learning about automation, collaboration, and efficient software delivery practices.
+🎓 Education:
+Master of Computer Science in Information Technology
+Gannon University, Erie, Pennsylvania (August 2022 – December 2024)
+Bachelor of Engineering in Electronics and Communication Engineering
+Sree Vidyanikethan Engineering College, Tirupati, India (July 2016 – October 2020)
 
-- **Hands-On Learning**: Experimenting with various tools like Docker, Kubernetes, Jenkins, Ansible, and Terraform to understand their roles in the DevOps ecosystem.
+💡 Projects
+AI-Powered EHR Management Platform
+Objective: Created a Salesforce-based system to securely manage electronic health records (EHR) and integrate OpenAI API for personalized prescription recommendations.
+Impact: Improved prescription accuracy by 25%, reduced errors by 30%.
+Technologies: Salesforce Lightning Web Components, OpenAI API, HIPAA-compliant encryption.
+Mock REST API Server
+Objective: Developed a Node.js and Express-based tool for quickly setting up mock REST APIs to expedite testing and development.
+Impact: Reduced API testing time by 40%, improved server performance by 20%.
+Technologies: Node.js, Express, JSON Server.
 
-- **CI/CD Explorer**: Delving into the intricacies of continuous integration and continuous delivery, exploring ways to streamline software development workflows.
+🏆 Certifications
+Microsoft DEV287x: Speech Recognition Systems
+Generative AI Fundamentals (Databricks)
+Certificate of Achievement in Git and GitHub
 
-- **Infrastructure as Code (IaC) Novice**: Learning to define and manage infrastructure using code, aiming for scalability, repeatability, and version control.
-
-### 🌱 What I'm Exploring:
-
-- Currently sharpening my skills in Jenkins, Docker, Kubernetes.
-  
-### 📚 Learning Resources:
-
-- 📖 Currently reading: **Continuous Delivery**[Book]: Reliable Software Releases Through Build, Test, and Deployment Automation.
-
-### 💬 Let's Learn Together:
-
-I'm open to collaboration, knowledge-sharing, and connecting with fellow DevOps enthusiasts. If you have insights, resources, or just want to chat about all things DevOps, feel free to reach out!
-
-### 📫 Connect With Me:
-
-- **LinkedIn**:https://www.linkedin.com/in/nithish-dasariraju-a6b213180/
-
-Let's build, automate, and learn together in the fascinating world of DevOps! 🛠️
