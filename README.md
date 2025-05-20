@@ -1,31 +1,35 @@
-Hi, I'm Nithish Dasariraju ! Welcome to my GitHub Portfolio
+Nithish Dasariraju | Full-Stack Engineer | Python & AI Specialist | Cloud Developer | Data Engineer | Automation & IT Helpdesk Expert
 
-About Me:
-A Software Engineer with a strong foundation in computer science principles and a love for building innovative solutions that have a global impact. Currently pursuing a Master's in Information Technology with a specialization in Data Science at Gannon University, I thrive on designing scalable systems and solving complex challenges.
+Hello! I’m Nithish Dasariraju, a passionate and innovative Software Engineer with a mission to build scalable, intelligent, and impactful solutions across industries. With a strong foundation in computer science, data engineering, full-stack development, and cloud infrastructure, I specialize in delivering results through a blend of AI, automation, and robust system design.
 
-🌍 Based in Erie, Pennsylvania, USA.
-💻 Skilled in Python, C, Java, and C++.
-🌟 Excited about cloud innovations, distributed systems, and automation.
-📫 Reach me at dasarirajunithish22@gmail.com.
+Education & Foundation:
+  Currently pursuing my Master’s in Information Technology at Gannon University (USA) with a specialization in Data Science, I combine my academic learning with real-world project execution. I also   hold a Bachelor’s in Electronics & Communication Engineering from India, where my journey into IoT and embedded systems began.
 
-🎓 Education:
-Master of Computer Science in Information Technology
-Gannon University, Erie, Pennsylvania (August 2022 – December 2024)
-Bachelor of Engineering in Electronics and Communication Engineering
-Sree Vidyanikethan Engineering College, Tirupati, India (July 2016 – October 2020)
+🛠Technical Expertise
 
-💡 Projects
-AI-Powered EHR Management Platform
-Objective: Created a Salesforce-based system to securely manage electronic health records (EHR) and integrate OpenAI API for personalized prescription recommendations.
-Impact: Improved prescription accuracy by 25%, reduced errors by 30%.
-Technologies: Salesforce Lightning Web Components, OpenAI API, HIPAA-compliant encryption.
-Mock REST API Server
-Objective: Developed a Node.js and Express-based tool for quickly setting up mock REST APIs to expedite testing and development.
-Impact: Reduced API testing time by 40%, improved server performance by 20%.
-Technologies: Node.js, Express, JSON Server.
+I bring a powerful mix of skills that span the entire software development lifecycle:
 
-🏆 Certifications
-Microsoft DEV287x: Speech Recognition Systems
-Generative AI Fundamentals (Databricks)
-Certificate of Achievement in Git and GitHub
+  Full-Stack Development: Flask, React, REST APIs, MySQL, PostgreSQL, MongoDB
+  Python & AI: NumPy, Pandas, OpenAI API, Scikit-learn, Resume Analyzers, Recommendation Systems
+  Cloud Platforms: GCP (Cloud Run, SQL, Build), AWS (Amplify, S3, Lambda), Azure (Basics)
+  Automation Testing & IT Support: Selenium, Test Case Automation, Regression Testing, L1/L2 Helpdesk Support
+  DevOps & CI/CD: Jenkins, Git, Docker, Kubernetes, Terraform, Maven
+  Data Engineering & ETL: Apache Spark, Hadoop, Airflow, Kafka, Data Pipelines
+  IoT & Embedded Systems: Raspberry Pi, Arduino, ZigBee, GSM Modules
 
+Career Highlights & Projects:
+
+  Founder of AptivHires (formerly JobGlide) – An AI-powered job search and resume optimization platform helping global users improve ATS scores and find relevant jobs faster.
+  AI-Powered EHR System – Built a secure, HIPAA-compliant electronic health record and prescription recommendation platform using Salesforce LWC + OpenAI API.
+  Cloud-Powered Game Deployment – Designed and deployed Dash and Dodge, a multiplayer arcade game using AWS Amplify, Route 53, CloudFront.
+  Automation Engineer at Ambright Tech LLC (USA) – Developing full-stack testing pipelines, automating frontend/backend validations, and deploying scalable Flask APIs on Google Cloud.
+  Associate SDU at Resource Pro (India) – Delivered L1/L2 tech support, automated Jenkins test flows, and implemented helpdesk solutions using Raspberry Pi-based workstations.
+  Mock REST API Tool – Built with Node.js + Express for fast backend simulation and testing, reducing API wait time by 40%.
+  Smart IoT Devices – Built wearable child safety devices with GPS & health tracking, and automated railway gate systems using sensors and microcontrollers.
+
+What Drives Me?
+  I’m driven by solving complex challenges with creative solutions, especially at the intersection of AI, cloud, and automation. Whether it's optimizing user journeys, building resilient systems,     or deploying intelligent tools that scale — I aim to build products that matter.
+
+I’m always open to exciting collaborations, freelancing, or full-time opportunities in software development, data engineering, IT support, and cloud transformation.
+📬 Let’s connect and create something extraordinary together!
+📧 dasarirajunithish22@gmail.com 
